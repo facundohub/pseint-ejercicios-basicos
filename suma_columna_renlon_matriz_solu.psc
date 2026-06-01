@@ -51,3 +51,5 @@ Algoritmo suma_columna_renlon_matriz_solu
 	imprimir ' '
 	
 FinAlgoritmo
+
+
